@@ -1,7 +1,7 @@
 <?php
 // Fonction principale pour afficher le message
 function main() {
-    echo "Bonjour, Preprod!";
+    echo "Hello, GitHub!";
 }
 // Appel de la fonction principale
 main();
